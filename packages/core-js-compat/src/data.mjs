@@ -1636,6 +1636,7 @@ export const data = {
   },
   'esnext.async-iterator.constructor': {
   },
+  // TODO: Remove from `core-js@4`
   'esnext.async-iterator.as-indexed-pairs': {
   },
   'esnext.async-iterator.drop': {
@@ -1651,6 +1652,8 @@ export const data = {
   'esnext.async-iterator.for-each': {
   },
   'esnext.async-iterator.from': {
+  },
+  'esnext.async-iterator.indexed': {
   },
   'esnext.async-iterator.map': {
   },
@@ -1678,6 +1681,7 @@ export const data = {
   'esnext.global-this': null,
   'esnext.iterator.constructor': {
   },
+  // TODO: Remove from `core-js@4`
   'esnext.iterator.as-indexed-pairs': {
   },
   'esnext.iterator.drop': {
@@ -1693,6 +1697,8 @@ export const data = {
   'esnext.iterator.for-each': {
   },
   'esnext.iterator.from': {
+  },
+  'esnext.iterator.indexed': {
   },
   'esnext.iterator.map': {
   },
